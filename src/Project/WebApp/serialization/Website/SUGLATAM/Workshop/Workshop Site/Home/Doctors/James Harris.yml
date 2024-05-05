@@ -1,0 +1,56 @@
+﻿---
+ID: "15855c96-62cc-4f3c-a402-2fbfb11061d5"
+Parent: "f4d9e5a2-1bcf-469c-92a8-1a73a9ee45a2"
+Template: "894ee557-6053-44e6-8630-14a46d760fe6"
+Path: /sitecore/content/SUGLATAM/Workshop/Workshop Site/Home/Doctors/James Harris
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240502T032945Z
+    - ID: "2fc92da5-d9ae-4373-ac03-821aff9682de"
+      Hint: Name
+      Value: James Harris
+    - ID: "3d6b47f8-fd34-4f1b-a230-dc739f7faf64"
+      Hint: CTAText
+      Value: Contact Us
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: James Harris
+    - ID: "722d987e-1417-47ad-9ae6-490a7c97546d"
+      Hint: Title
+      Value: James Harris
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6e3572d2-9eb3-4fc4-80c3-ace286a483ce"
+    - ID: "925d8e04-6ae1-4dfa-877b-d8bdcbbe566d"
+      Hint: Content
+      Value: |
+        <h2 class="doctor-hours" style="color: #222222; margin: 0px; padding: 20px 0px 10px;">Opening hours:</h2>
+        <ul style="color: #222222; margin: 0px;">
+            <li>Tuesday - Thursday 7AM - 3PM</li>
+            <li>Friday 7AM - 11AM</li>
+        </ul>
+        <br />
+        <p style="color: #222222; margin-top: 0px; margin-right: 0px; margin-left: 0px; padding: 0px 0px 1em;">Currently we are not accepting new patients.</p>
+    - ID: "aeeef0e4-45a0-4100-a13c-3e8b1e5bb050"
+      Hint: Photo
+      Value: |
+        <image mediaid="{3A929F67-E2B2-4C14-BCF0-1DE011E13BC8}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d2901a56-3340-449d-ac16-50339debc950"
+      Hint: CTA
+      Value: |
+        <link linktype="external" url="/contact-us" anchor="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240505T003441Z
+    - ID: "fd7bd9cb-1540-46a5-b986-4e4d5bf9dcaa"
+      Hint: Specialty
+      Value: Neurology

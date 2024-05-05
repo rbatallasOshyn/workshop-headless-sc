@@ -1,0 +1,54 @@
+﻿---
+ID: "0c80f07f-9ea2-4112-8d34-d062992a474d"
+Parent: "01e418c8-7ccb-4758-84e1-d7c438e841c6"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: /sitecore/content/SUGLATAM/Workshop/Workshop Site/Presentation/Partial Designs/Page Content/Navigation Menu
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/graph_claw.png
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: "navigation-menu"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <p
+          uid="{2AEDDD59-9249-4F74-A086-14355C606206}"
+          p:before="*"
+          s:key="jss-navigation"
+          s:md="{5C914EEF-7752-4D34-903E-2D6ED8868E48}" />
+        <r
+          uid="{E9C37B87-884E-4351-B492-57D183D2AE46}"
+          p:after="*[1=2]"
+          s:id="{7088DD51-926D-45F7-A16B-781BF047F54B}"
+          s:par="CacheClearingBehavior=Clear%20on%20publish"
+          s:ph="jss-navigation" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240501T015301Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "89343d01-b812-413d-9045-cd2ed2837483"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240501T015615Z

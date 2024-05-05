@@ -1,0 +1,46 @@
+﻿---
+ID: "8a4da685-37db-4607-bcff-870f49f86559"
+Parent: "95e049e7-7509-43bc-a9c1-1dbeb9df9315"
+Template: "95e049e7-7509-43bc-a9c1-1dbeb9df9315"
+Path: /sitecore/templates/Feature/SUGLATAM/Forms/Contact Us/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240502T025146Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "65aae4d9-d905-42ae-882f-7202dbe9016b"
+      Hint: Email
+      Value: "Email:"
+    - ID: "761e4c97-fd59-453d-b09e-7581ec92f61b"
+      Hint: Title
+      Value: Contact us via email
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "77ace187-723a-4e11-80a7-34d9a8e452d1"
+    - ID: "96a0f077-64ec-4a08-a306-305eadb13185"
+      Hint: CTAText
+      Value: Submit
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d6e0f4a9-751e-4c92-80ef-bc567c3e0f32"
+      Hint: Name
+      Value: "Your Name:"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240502T030640Z
+    - ID: "e7c89df1-51f7-42d9-9a4b-2283cadf2e50"
+      Hint: Message
+      Value: "Message:"

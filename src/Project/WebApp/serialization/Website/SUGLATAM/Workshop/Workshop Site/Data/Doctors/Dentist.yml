@@ -1,0 +1,31 @@
+﻿---
+ID: "72c59122-1aee-48ce-a19b-e00914e18a94"
+Parent: "6f23a5aa-16e8-4d08-8379-e1616b53846f"
+Template: "1a4e7850-9945-4f07-a817-a686cec8eccd"
+Path: /sitecore/content/SUGLATAM/Workshop/Workshop Site/Data/Doctors/Dentist
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240504T233152Z
+    - ID: "56455f3a-2e9b-4a2d-ae48-5305cb239e0b"
+      Hint: Description
+      Value: |
+        <p style="color: #000000; background-color: #ffffff; margin-right: 0px; margin-bottom: 15px; margin-left: 0px; padding: 0px; text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam lacus lacus, scelerisque eget lacus id, facilisis facilisis neque. Mauris feugiat gravida volutpat. Ut posuere viverra lectus et sagittis. Nulla sed mi sed leo condimentum volutpat non vitae nibh. Suspendisse mollis vehicula massa ut commodo. Nulla nec nulla sit amet libero maximus sollicitudin sed eu eros. Cras dapibus nisl quis augue convallis sollicitudin. Pellentesque rutrum justo metus, et vehicula ipsum pulvinar convallis. Sed at libero molestie, blandit neque eget, volutpat odio. Vivamus pretium, diam nec blandit dictum, metus ipsum vestibulum odio, vel fermentum massa lectus eget mi. Curabitur ornare sed arcu a efficitur. Aenean nec mauris condimentum, luctus velit quis, blandit augue. Pellentesque egestas posuere turpis, id aliquet sem bibendum eu.</p>
+        <p style="color: #000000; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px; text-align: justify;">Nullam sed pharetra ex. Sed lobortis blandit faucibus. Praesent ullamcorper tincidunt elit eu sollicitudin. Quisque tortor tellus, faucibus interdum nunc eget, ultrices pulvinar libero. Quisque lobortis felis nisl, eleifend pulvinar justo malesuada ac. Aenean tellus sem, fermentum a est at, pharetra porttitor elit. Cras cursus libero velit, ut cursus quam rutrum a. Etiam ut sapien eu mauris finibus sodales. Praesent malesuada feugiat turpis, et tristique leo. Morbi in mi nec augue ultrices varius. Etiam a enim nibh. In dapibus enim.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0af631b0-f6cc-40c4-a44d-3eff0840f6e3"
+    - ID: "b2973bee-0a27-4ec8-86dc-c0f2377b471a"
+      Hint: Name
+      Value: Dentist
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240504T233201Z

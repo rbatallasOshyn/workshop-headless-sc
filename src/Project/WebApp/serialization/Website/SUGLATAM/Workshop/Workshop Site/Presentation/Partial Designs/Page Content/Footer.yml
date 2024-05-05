@@ -1,0 +1,50 @@
+﻿---
+ID: "52892162-3dfe-4e5c-b3a6-b86022cdc811"
+Parent: "01e418c8-7ccb-4758-84e1-d7c438e841c6"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: /sitecore/content/SUGLATAM/Workshop/Workshop Site/Presentation/Partial Designs/Page Content/Footer
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: office/32x32/document_header.png
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: footer
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{A7E8BC97-AD84-4C5A-8131-1A43279ACA32}"
+          s:ds="{CA19B357-3B23-4F07-A20D-3AE77D56DCEB}"
+          s:id="{62B3D69C-DCBB-437D-A41F-42297FF45D18}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-footer"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240425T025633Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "473da402-ca11-432c-93d1-1a2d5894ba67"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240425T030352Z

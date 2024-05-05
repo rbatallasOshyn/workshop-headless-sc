@@ -1,0 +1,41 @@
+﻿---
+ID: "88613199-35a7-42e7-855f-6e9a94cb05b4"
+Parent: "99f3c3f3-a012-434e-9f91-5c7105e8a543"
+Template: "11491ce7-fbea-4440-aac9-36bd374eed80"
+Path: /sitecore/content/SUGLATAM/Workshop/Workshop Site/Data/Page Content/Header
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240425T025119Z
+    - ID: "469998a8-1522-4147-89de-3ab67a449bae"
+      Hint: MenuButtonText
+      Value: Menu
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "5ff39fe5-2480-4031-8260-18bd30ffde91"
+      Hint: CTAText
+      Value: SUG Latam
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "593ec13e-2d97-4cf4-aaa5-fbae234b9ab8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240430T033754Z
+    - ID: "fb7e107c-6627-41d6-995a-d4da9f232aae"
+      Hint: CTA
+      Value: |
+        <link linktype="external" url="/" anchor="" target="" />

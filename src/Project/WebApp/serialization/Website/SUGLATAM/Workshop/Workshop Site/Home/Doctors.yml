@@ -1,0 +1,54 @@
+﻿---
+ID: "f4d9e5a2-1bcf-469c-92a8-1a73a9ee45a2"
+Parent: "b1c2c658-e948-4333-9e55-daa3110b74ae"
+Template: "a956fdf7-e918-4bee-9952-53b4e5d14dc5"
+Path: /sitecore/content/SUGLATAM/Workshop/Workshop Site/Home/Doctors
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{BC22C86C-B32D-441A-80B9-53FFB6842A16}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{AA9626BF-807F-41F1-9473-4BE79D12EDC2}"
+          p:before="*"
+          s:id="{9886029F-4089-443C-B174-3EFCBDFF583D}"
+          s:par="CacheClearingBehavior=Clear%20on%20publish"
+          s:ph="headless-main" />
+        <r
+          uid="{CD049291-69F5-426A-A7B4-99D986816E17}"
+          p:after="*[1=2]"
+          s:id="{033AACA7-7788-4B22-B6A1-6C4CA7C63938}"
+          s:par="CacheClearingBehavior=Clear%20on%20publish"
+          s:ph="col-1" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240325T023147Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Doctors
+    - ID: "722d987e-1417-47ad-9ae6-490a7c97546d"
+      Hint: Title
+      Value: Doctors
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "69b9a861-88a5-4e57-be48-c51922bcc277"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240505T013810Z

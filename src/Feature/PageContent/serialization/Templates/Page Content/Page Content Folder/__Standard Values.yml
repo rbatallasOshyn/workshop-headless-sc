@@ -1,0 +1,37 @@
+﻿---
+ID: "8e81dbf9-7c3e-48e9-bd9f-309e1ded1c76"
+Parent: "2a4e3e37-5a28-4865-8047-ab97121f6db6"
+Template: "2a4e3e37-5a28-4865-8047-ab97121f6db6"
+Path: /sitecore/templates/Feature/SUGLATAM/Page Content/Page Content Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {11491CE7-FBEA-4440-AAC9-36BD374EED80}
+    {A3BCE926-D9F4-470C-ABCC-5DE971EC8D27}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240425T024936Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "50bbfba4-1806-4588-891e-36c83932c501"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240425T025009Z

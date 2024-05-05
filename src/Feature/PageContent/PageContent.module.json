@@ -1,0 +1,20 @@
+{
+  "namespace": "Feature.PageContent",
+  "references": [
+
+  ],
+  "items": {
+    "includes": [
+      {
+        "name": "Templates",
+        "path": "/sitecore/templates/Feature/SUGLATAM/Page Content",
+        "database": "master"
+      },
+      {
+        "name": "Renderings",
+        "path": "/sitecore/layout/Renderings/Feature/SUGLATAM/Page Content",
+        "database": "master"
+      }
+    ]
+  }
+}

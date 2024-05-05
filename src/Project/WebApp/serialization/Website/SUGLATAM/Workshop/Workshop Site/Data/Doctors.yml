@@ -1,0 +1,23 @@
+﻿---
+ID: "6f23a5aa-16e8-4d08-8379-e1616b53846f"
+Parent: "79ee3b86-e508-46de-a0aa-d699bba0e7bc"
+Template: "1a48d462-068a-46b1-891a-78b7d963d7cc"
+Path: /sitecore/content/SUGLATAM/Workshop/Workshop Site/Data/Doctors
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240504T232818Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "65f63c63-548b-4c08-bce6-f39d4b9f964c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240504T232818Z

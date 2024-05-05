@@ -1,0 +1,20 @@
+{
+  "namespace": "Feature.Doctors",
+  "references": [
+
+  ],
+  "items": {
+    "includes": [
+      {
+        "name": "Templates",
+        "path": "/sitecore/templates/Feature/SUGLATAM/Doctors",
+        "database": "master"
+      },
+      {
+        "name": "Renderings",
+        "path": "/sitecore/layout/Renderings/Feature/SUGLATAM/Doctors",
+        "database": "master"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+﻿---
+ID: "739f3530-6e04-446a-b5e3-12383dd7f48a"
+Parent: "11a9ef53-b071-4d6c-8642-15d309977c16"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/content/SUGLATAM/Workshop/Workshop Site/Presentation/Available Renderings/SUGLATAM
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Value: |
+    {CDF38514-8BA1-4AA3-969D-281536CF5BED}
+    {62B3D69C-DCBB-437D-A41F-42297FF45D18}
+    {87A52588-95FB-4A07-8C96-4060D687F50D}
+    {7088DD51-926D-45F7-A16B-781BF047F54B}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240501T180351Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d56f3c13-aa03-4ad3-9c90-f4bb6addaef7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240501T180403Z

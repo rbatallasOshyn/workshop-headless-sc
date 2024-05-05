@@ -1,0 +1,36 @@
+﻿---
+ID: "17e00a39-ed72-4bcb-8bf4-5305312179c3"
+Parent: "700c2f59-16ad-4d54-916b-c8de38d4d6da"
+Template: "01baddf3-3848-4295-a32d-d72b2b4b0d67"
+Path: /sitecore/content/SUGLATAM/Workshop/Workshop Site/Presentation/Partial Designs
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{703ABB6D-BE33-4F9D-97FF-EE1571A14C81}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240208T020306Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "be205458-596b-45e6-82f4-5309da3277b2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240208T020306Z

@@ -1,0 +1,35 @@
+{
+  "namespace": "Project.Website",
+  "references": [
+    "Feature.*"
+  ],
+  "items": {
+    "includes": [
+      {
+        "name": "Templates",
+        "path": "/sitecore/templates/Project/SUGLATAM/Workshop",
+        "database": "master"
+      },
+      {
+        "name": "Placeholder Settings",
+        "path": "/sitecore/layout/Placeholder Settings/Project/SUGLATAM/Placeholder Settings",
+        "database": "master"
+      },
+      {
+        "name": "Presentation",
+        "path": "/sitecore/layout/Layouts/Project/SUGLATAM/Presentation",
+        "database": "master"
+      },
+      {
+        "name": "Website",
+        "path": "/sitecore/content/SUGLATAM",
+        "database": "master"
+      },
+      {
+        "name": "MediaItems",
+        "path": "/sitecore/media library/Project/SUGLATAM/Workshop/Doctors",
+        "database": "master"
+      }
+    ]
+  }
+}

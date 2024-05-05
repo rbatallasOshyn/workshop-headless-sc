@@ -1,0 +1,40 @@
+﻿---
+ID: "f44b4dae-f5dc-4506-a5f4-4f07b55a2a39"
+Parent: "1c12bf77-4e95-4455-9382-6dbdf0608aaa"
+Template: "737e711c-9080-4c61-9eef-86be4a3c4392"
+Path: /sitecore/content/SUGLATAM/Workshop/Workshop Site/Home/Data/Hero Banner
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "071ce901-9f86-49f9-9232-46123f38581f"
+      Hint: Image
+      Value: |
+        <image mediaid="{E315A398-3F55-4EB2-A128-450426B38A2E}" />
+    - ID: "257cac7d-c641-47b2-820f-422e156ef766"
+      Hint: CTA
+      Value: |
+        <link linktype="external" url="/doctors" anchor="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240501T174527Z
+    - ID: "748ba4ff-c046-48ba-8728-f93c7e3a4a04"
+      Hint: Title
+      Value: "Welcome!"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "63813352-5d2f-4b0a-ba2b-d453c0309fca"
+    - ID: "b12b9edf-4d3b-4977-861f-5651a90f6fd6"
+      Hint: CTAText
+      Value: Our Doctors and opening hours
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bef78b45-3940-4cc7-8a15-45d7883a5377"
+      Hint: Description
+      Value: The goal of our clinic is to provide the best medical care. For comprehensive health at all times, it is also necessary to maintain a healthy lifestyle.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240501T175922Z

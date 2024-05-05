@@ -1,0 +1,52 @@
+﻿---
+ID: "bfecf54e-730b-4237-8fac-2995d94ad1df"
+Parent: "a956fdf7-e918-4bee-9952-53b4e5d14dc5"
+Template: "a956fdf7-e918-4bee-9952-53b4e5d14dc5"
+Path: /sitecore/templates/Project/SUGLATAM/Workshop/Page/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {A956FDF7-E918-4BEE-9952-53B4E5D14DC5}
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+    {894EE557-6053-44E6-8630-14A46D760FE6}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{BC22C86C-B32D-441A-80B9-53FFB6842A16}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{FDD51A7A-0767-4C55-BA2F-8CAA06EFF7FB}" />
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240208T020134Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "722d987e-1417-47ad-9ae6-490a7c97546d"
+      Hint: Title
+      Value: $name
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bd3d0b0a-e414-4813-9b9e-f359da1bed56"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240502T032923Z

@@ -1,0 +1,20 @@
+{
+  "namespace": "Feature.Search",
+  "references": [
+
+  ],
+  "items": {
+    "includes": [
+      {
+        "name": "Templates",
+        "path": "/sitecore/templates/Feature/SUGLATAM/Search",
+        "database": "master"
+      },
+      {
+        "name": "Renderings",
+        "path": "/sitecore/layout/Renderings/Feature/SUGLATAM/Search",
+        "database": "master"
+      }
+    ]
+  }
+}

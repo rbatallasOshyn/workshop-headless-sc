@@ -1,0 +1,72 @@
+﻿---
+ID: "09c991ee-f31d-4614-8142-613e5dfd4bee"
+Parent: "f4d9e5a2-1bcf-469c-92a8-1a73a9ee45a2"
+Template: "894ee557-6053-44e6-8630-14a46d760fe6"
+Path: /sitecore/content/SUGLATAM/Workshop/Workshop Site/Home/Doctors/Christoph Miller
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{BC22C86C-B32D-441A-80B9-53FFB6842A16}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{1881880B-AD8C-4091-B955-69EFE727301B}"
+          s:par="CacheClearingBehavior=Clear%20on%20publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240502T032821Z
+    - ID: "2fc92da5-d9ae-4373-ac03-821aff9682de"
+      Hint: Name
+      Value: Christoph Miller
+    - ID: "3d6b47f8-fd34-4f1b-a230-dc739f7faf64"
+      Hint: CTAText
+      Value: Contact Us
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Christoph Miller
+    - ID: "722d987e-1417-47ad-9ae6-490a7c97546d"
+      Hint: Title
+      Value: Christoph Miller
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "197ee96b-72cc-4c05-b787-0245ed5f0760"
+    - ID: "925d8e04-6ae1-4dfa-877b-d8bdcbbe566d"
+      Hint: Content
+      Value: |
+        <h2 class="doctor-hours" style="color: #222222; margin: 0px; padding: 20px 0px 10px;">Opening hours:</h2>
+        <ul style="color: #222222; margin: 0px;">
+            <li>Tuesday - Thursday 7AM - 3PM</li>
+            <li>Friday 7AM - 11AM</li>
+        </ul>
+        <br />
+        <p style="color: #222222; margin-top: 0px; margin-right: 0px; margin-left: 0px; padding: 0px 0px 1em;">Currently we are not accepting new patients.</p>
+    - ID: "aeeef0e4-45a0-4100-a13c-3e8b1e5bb050"
+      Hint: Photo
+      Value: |
+        <image mediaid="{5ABFEBD4-0719-40EC-807A-2678DA776196}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d2901a56-3340-449d-ac16-50339debc950"
+      Hint: CTA
+      Value: |
+        <link text="CONTACT US" linktype="external" url="/contact-us" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240505T003437Z
+    - ID: "fd7bd9cb-1540-46a5-b986-4e4d5bf9dcaa"
+      Hint: Specialty
+      Value: General practitioner

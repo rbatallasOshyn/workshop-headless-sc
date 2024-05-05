@@ -1,0 +1,60 @@
+﻿---
+ID: "8025b660-b7bc-4537-91c6-9911dd541c33"
+Parent: "cb739026-0d1c-4175-9772-dc82a75f5291"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/SUGLATAM/Workshop/Doctors/logo
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/8025B660B7BC453791C69911DD541C33.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 253
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "f5f3202c-d53d-44ab-84eb-76c3d2897a5e"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAP0AAAAjCAMAAABo3/yRAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyhpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMDE0IDc5LjE1Njc5NywgMjAxNC8wOC8yMC0wOTo1MzowMiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTQgKE1hY2ludG9zaCkiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6QjMxRTE4QzBEQUM2MTFFNEEwODc4NzE4MjgyNTQwODgiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6QjMxRTE4QzFEQUM2MTFFNEEwODc4NzE4MjgyNTQwODgiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDoxRDFBRTk4OURBQkIxMUU0QTA4Nzg3MTgyODI1NDA4OCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDoxRDFBRTk4QURBQkIxMUU0QTA4Nzg3MTgyODI1NDA4OCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PrXd/8UAAAAzUExURfG/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
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 2601
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 253 x 35
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 35
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240501T175818Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: logo
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aa302308-f980-433e-a5d4-0b5a67c0edb2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240505T175220Z

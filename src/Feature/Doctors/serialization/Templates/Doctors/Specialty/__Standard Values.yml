@@ -1,0 +1,34 @@
+﻿---
+ID: "0ac89ad2-9d92-4822-98b2-daa86b0ededc"
+Parent: "1a4e7850-9945-4f07-a817-a686cec8eccd"
+Template: "1a4e7850-9945-4f07-a817-a686cec8eccd"
+Path: /sitecore/templates/Feature/SUGLATAM/Doctors/Specialty/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240502T032356Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "06c88bf3-7308-46aa-98d5-10f27492d229"
+    - ID: "b2973bee-0a27-4ec8-86dc-c0f2377b471a"
+      Hint: Name
+      Value: $name
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240502T032401Z

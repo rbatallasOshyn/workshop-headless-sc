@@ -1,0 +1,91 @@
+﻿---
+ID: "b1c2c658-e948-4333-9e55-daa3110b74ae"
+Parent: "768040ac-8002-4152-9927-0d2282cc263f"
+Template: "a956fdf7-e918-4bee-9952-53b4e5d14dc5"
+Path: /sitecore/content/SUGLATAM/Workshop/Workshop Site/Home
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "0d83e59a-c3f1-41be-81b2-762d35e0799f"
+  Hint: NavigationClass
+  Value: "{CD3E9823-82CB-4119-850A-00484BCD5809}"
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{BC22C86C-B32D-441A-80B9-53FFB6842A16}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{46780377-B5C5-43DB-8ECC-7B17F4A64024}"
+          p:before="*"
+          s:ds="local:/Data/Hero Banner"
+          s:id="{CDF38514-8BA1-4AA3-969D-281536CF5BED}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-banner"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{144F5B62-B8D2-4F96-B3F7-01A9DA09BD4C}"
+          p:after="r[@uid='{46780377-B5C5-43DB-8ECC-7B17F4A64024}']"
+          s:id="{32404FA2-67AE-487F-91BD-FC3CCA0FAE43}"
+          s:ph="headless-main" />
+        <r
+          uid="{E7E9A155-31CD-4F36-8E11-E5CCC65413F6}"
+          p:after="r[@uid='{144F5B62-B8D2-4F96-B3F7-01A9DA09BD4C}']"
+          s:ds=""
+          s:id="{C4F041DA-E036-4C37-91EF-8CD874D1739F}"
+          s:par=""
+          s:ph="col-1"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{FED621D1-E9BD-4013-A491-D81096767CC1}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Search Box"
+          s:id="{5C36256A-20F1-4E4A-9AA9-7D75D75126E7}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;DynamicPlaceholderId=2"
+          s:ph="col-2"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{F558BEC9-C602-4D7A-B9A1-D0411C946EA4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240208T020306Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Workshop Site
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "722d987e-1417-47ad-9ae6-490a7c97546d"
+      Hint: Title
+      Value: SUGLATAM Workshop
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "221dacbf-9d86-4515-a4c3-a7c457d30fea"
+    - ID: "925d8e04-6ae1-4dfa-877b-d8bdcbbe566d"
+      Hint: Content
+      Value: |
+        <h2>Welcome to SUG Latam</h2>
+        <p>Our Sitecore User Group based in Quito, Ecuador, is a federally qualified health center that has been offering high-quality, comprehensive, and family-oriented primary health care and support services since March 7th, 1935. We are recognized by the National Committee on Quality Assurance as a Patient-Centered Medical Home. We provide health care for a stronger community by serving nearly 20,000 patients annually.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240502T002324Z

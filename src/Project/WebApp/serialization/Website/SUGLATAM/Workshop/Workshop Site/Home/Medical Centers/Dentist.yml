@@ -1,0 +1,62 @@
+﻿---
+ID: "7c585300-f0eb-4b17-a0dd-e5ed58e883de"
+Parent: "8d9f595d-2c97-4a54-bf52-f19140b559c7"
+Template: "a956fdf7-e918-4bee-9952-53b4e5d14dc5"
+Path: /sitecore/content/SUGLATAM/Workshop/Workshop Site/Home/Medical Centers/Dentist
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{37F95884-59B1-4D43-98C0-AB1E08595AC4}"
+          p:before="*"
+          s:id="{21B472DE-CB7D-4C5A-A2F4-7BE1388F2546}"
+          s:par="CacheClearingBehavior=Clear%20on%20publish"
+          s:ph="headless-main" />
+        <r
+          uid="{F1520D16-BA31-4D76-B124-E67225D88C55}"
+          p:after="r[@uid='{37F95884-59B1-4D43-98C0-AB1E08595AC4}']"
+          s:id="{84AE45FE-9835-4177-BB51-F600688956BE}"
+          s:par="CacheClearingBehavior=Clear%20on%20publish"
+          s:ph="col-1" />
+        <r
+          uid="{670FC979-7A38-4B0A-A22F-9C2EC2584D3C}"
+          p:after="*[1=2]"
+          s:id="{C4F041DA-E036-4C37-91EF-8CD874D1739F}"
+          s:par="CacheClearingBehavior=Clear%20on%20publish"
+          s:ph="col-2" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240505T022519Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Dentist
+    - ID: "722d987e-1417-47ad-9ae6-490a7c97546d"
+      Hint: Title
+      Value: Dentist
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2055a2a2-52d1-41ee-bdf9-25b05ebfd419"
+    - ID: "925d8e04-6ae1-4dfa-877b-d8bdcbbe566d"
+      Hint: Content
+      Value: |
+        <h1 style="color: #222222; margin: 0px 0px 30px; line-height: 1.1em;">Dentist</h1>
+        <p style="color: #222222; margin-top: 0px; margin-right: 0px; margin-left: 0px; padding: 0px 0px 1em;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240505T024340Z

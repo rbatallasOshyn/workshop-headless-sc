@@ -1,0 +1,15 @@
+{
+  "namespace": "Feature.SubLayouts",
+  "references": [
+
+  ],
+  "items": {
+    "includes": [
+      {
+        "name": "Renderings",
+        "path": "/sitecore/layout/Renderings/Feature/SUGLATAM/Sub Layouts",
+        "database": "master"
+      }
+    ]
+  }
+}

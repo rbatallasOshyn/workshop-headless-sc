@@ -1,0 +1,73 @@
+﻿---
+ID: "70b46d11-5b87-445f-9edf-ac5b2cfdc2a6"
+Parent: "b1c2c658-e948-4333-9e55-daa3110b74ae"
+Template: "a956fdf7-e918-4bee-9952-53b4e5d14dc5"
+Path: /sitecore/content/SUGLATAM/Workshop/Workshop Site/Home/Contact Us
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{BC22C86C-B32D-441A-80B9-53FFB6842A16}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{09D8EFF9-6813-4547-92F1-DEA02D5F2411}"
+          p:before="*"
+          s:id="{32404FA2-67AE-487F-91BD-FC3CCA0FAE43}"
+          s:par="CacheClearingBehavior=Clear%20on%20publish"
+          s:ph="headless-main" />
+        <r
+          uid="{14490907-DAB0-4895-9569-1F675ADEE36C}"
+          p:after="r[@uid='{09D8EFF9-6813-4547-92F1-DEA02D5F2411}']"
+          s:ds="local:/Data/Contact Us"
+          s:id="{DE389BB0-375C-43D5-8246-00153813E3C3}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;DynamicPlaceholderId=1"
+          s:ph="col-1"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{EFA0A01E-F584-4081-A74B-68074029026D}"
+          p:after="*[1=2]"
+          s:id="{C4F041DA-E036-4C37-91EF-8CD874D1739F}"
+          s:par="CacheClearingBehavior=Clear%20on%20publish"
+          s:ph="col-2" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240501T011259Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Contact Us
+    - ID: "722d987e-1417-47ad-9ae6-490a7c97546d"
+      Hint: Title
+      Value: Contact Us
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ee90a73c-e19d-4595-a5cd-150818e46828"
+    - ID: "925d8e04-6ae1-4dfa-877b-d8bdcbbe566d"
+      Hint: Content
+      Value: |
+        <h2>MEDIO clinic</h2>
+        MEDIO clinic<br />
+        7A Kentico Street<br />
+        Bedford, NH 03110, USA<br />
+        <a href="tel:+1-603-754-3010">(603) 754-3010</a>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240502T030723Z

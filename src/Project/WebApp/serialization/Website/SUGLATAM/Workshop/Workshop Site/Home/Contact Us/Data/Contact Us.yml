@@ -1,0 +1,23 @@
+﻿---
+ID: "e30866f2-6424-42f2-818a-1a6302dd1d80"
+Parent: "e99578b4-eec1-43f9-b795-e41b306382d7"
+Template: "95e049e7-7509-43bc-a9c1-1dbeb9df9315"
+Path: /sitecore/content/SUGLATAM/Workshop/Workshop Site/Home/Contact Us/Data/Contact Us
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240502T030715Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "68a62123-c43b-490f-b907-d430127371e2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240502T030715Z

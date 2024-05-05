@@ -1,0 +1,20 @@
+{
+  "namespace": "Feature.Hero",
+  "references": [
+
+  ],
+  "items": {
+    "includes": [
+      {
+        "name": "Templates",
+        "path": "/sitecore/templates/Feature/SUGLATAM/Hero",
+        "database": "master"
+      },
+      {
+        "name": "Renderings",
+        "path": "/sitecore/layout/Renderings/Feature/SUGLATAM/Hero",
+        "database": "master"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+﻿---
+ID: "9050d93b-3818-48c8-8160-cf1e889fba99"
+Parent: "1c12bf77-4e95-4455-9382-6dbdf0608aaa"
+Template: "90329e74-bb1e-49cd-8fe2-a72a72619926"
+Path: /sitecore/content/SUGLATAM/Workshop/Workshop Site/Home/Data/Search Box
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240502T002321Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4041c9ca-3b9b-49e0-a66b-4a3834bd83e8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bd5de230-86e3-4421-8b81-e6833e330af1"
+      Hint: Label
+      Value: Doctor's name
+    - ID: "d211d7b1-db40-4ad1-96a8-ed72b5574a0a"
+      Hint: Title
+      Value: Find a doctor
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240502T002339Z

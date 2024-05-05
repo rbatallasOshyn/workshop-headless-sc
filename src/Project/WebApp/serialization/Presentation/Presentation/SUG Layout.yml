@@ -1,0 +1,45 @@
+﻿---
+ID: "fdd51a7a-0767-4c55-ba2f-8caa06eff7fb"
+Parent: "d2c3c911-3c79-44b3-b2e5-03eb7b877422"
+Template: "35c61e90-47dd-43dd-83a8-d1c4d5119720"
+Path: /sitecore/layout/Layouts/Project/SUGLATAM/Presentation/SUG Layout
+SharedFields:
+- ID: "80334869-86dc-4472-aa89-44cf1b2f6c9b"
+  Hint: Placeholders
+  Value: |
+    {21F39740-9A0D-40D1-8341-0896179C9A1B}
+    {284D388A-9D4E-4742-A298-EC6871592D4B}
+    {6717BFED-9339-4CBE-891A-BC5E5F24E6E2}
+    {B4BA57A6-C743-4362-9CEF-C763064FC544}
+    {49E56593-BB61-41CA-8B9A-806B11486366}
+    {5F4D1AF3-F141-4008-AE28-9AD0AA9D5BAF}
+    {FE2982B0-82B6-47DA-9629-2F4AB4D56CDB}
+- ID: "a036b2bc-ba04-44f6-a75f-bae6cd242abf"
+  Hint: Path
+  Value: /Views/SXA JSS/SXA JSS Layout.cshtml
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240501T215343Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0c01ff2c-b7f9-4714-8b13-153b93fc727c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240501T235943Z
